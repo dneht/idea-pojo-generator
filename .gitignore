@@ -1,0 +1,11 @@
+.idea
+*.iml
+out
+RoboPOJOGenerator.jar
+.DS_Store
+RoboPOJOGenerator.zip
+lib
+.gradle
+build
+*.ipr
+*.iws
